@@ -1,0 +1,27 @@
+[
+    {
+        "nome_do_site": "HUMANOS DA DUARTE",
+        "nome_da_serie": "Série A",
+        "imagem": "https://images.pexels.com/photos/1087735/pexels-photo-1087735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "nome_do_site": "HUMANOS DA DUARTE",
+        "nome_da_serie": "Série B",
+        "imagem": "https://images.pexels.com/photos/2043385/pexels-photo-2043385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "nome_do_site": "HUMANOS DA DUARTE",
+        "nome_da_serie": "Série C",
+        "imagem": "https://images.pexels.com/photos/3783109/pexels-photo-3783109.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "nome_do_site": "HUMANOS DA DUARTE",
+        "nome_da_serie": "Série D",
+        "imagem": "https://images.pexels.com/photos/3783348/pexels-photo-3783348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "nome_do_site": "HUMANOS DA DUARTE",
+        "nome_da_serie": "Série E",
+        "imagem": "https://images.pexels.com/photos/14036850/pexels-photo-14036850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+]
