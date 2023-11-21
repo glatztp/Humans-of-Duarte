@@ -112,7 +112,7 @@
 .bg-img {
     width: 100%;
     height: 100%;
-    background-image: url(./assets/livros.jpg);
+    background-image: url(./assets/corredor.jpg);
     background-size: cover;
     background-position: center;
     transition: 1s ease-in-out;
